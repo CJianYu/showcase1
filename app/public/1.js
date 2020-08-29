@@ -2,7 +2,7 @@
  * 方法1
  */
 window.xxx = function (value) {
-  console.log(value)
+  console.log(value, 'kkkk')
 }
 
 var script = document.createElement('script')
